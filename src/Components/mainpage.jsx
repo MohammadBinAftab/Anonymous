@@ -94,7 +94,7 @@ const styles = {
     borderRadius: '4px 0 0 4px',
     border: '1px solid #ccc',
     outline: 'none',
-    width: '400px'
+    width: '300px'
   },
   button: {
     padding: '10px 20px',
